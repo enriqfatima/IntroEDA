@@ -1,4 +1,4 @@
-# PreEDA
+# Project Description
 ##### Data:
 In this project, I used the data from : https://raw.githubusercontent.com/fivethirtyeight/data/master/candy-power-ranking/candy-data.csv which details properties of candies such as if they are chocolate,fruity,caramel,nougat,hard,their sugarpercent etc.
 ##### Methods:
