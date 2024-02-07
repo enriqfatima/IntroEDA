@@ -8,4 +8,11 @@ Alike, I used my ability to gather data from my source to efficiently handle mis
 For data visualization, I created some charts and graphs to explore data relationships/trends using libraries like Matplotlib and Seaborn.
 With my knowledge of statistical analysus, I was able to apply some of the basic concepts to summarize and interpret my data. This project further aided in my programming skills in the Python language which is great for data manipulation, analysis, and visualization.
 
+## DataAnalysis
+##### Data:
+In this project, I used the data from my Data Science course at my university. The data consisted of majors, gender, age, etc. 
+##### Methods:
+Similar to the methods above, I also was able to analyze the data between the different majors such as cognitve and computer science.
+
+
 
